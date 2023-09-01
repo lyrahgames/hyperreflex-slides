@@ -9,6 +9,8 @@ svg-inkscape
 
 !*.cpp
 
+!*.md
+
 !makefile
 
 !images/**
